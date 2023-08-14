@@ -15,6 +15,8 @@ dataframe
   \item{DEPARTAMENTO}{chr Department name}
   \item{PROVINCIA}{chr Province name}
   \item{DISTRITO}{chr District name}
+  \item{NOMBRE_CAPITAL_LEGAL}{chr Capital name}
+  \item{REGION_NATURAL}{chr Natural region}
   \item{coords_x}{dbl Longitude of the centroid of the district}
   \item{coords_y}{dbl Latitude of the centroid of the district}
   \item{geometry}{MULTIPOLYGON Geometric object}
