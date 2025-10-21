@@ -3,6 +3,7 @@
 #' \describe{
 #'   \item{COD_DEPARTAMENTO}{chr Department code}
 #'   \item{DEPARTAMENTO}{chr Department name}
+#'   \item{POBLACION_2025}{dbl Projected population of the department in 2025}
 #'   \item{coords_x}{dbl Longitude of the centroid of the department}
 #'   \item{coords_y}{dbl Latitude of the centroid of the department}
 #'   \item{geometry}{MULTIPOLYGON Geometric object}

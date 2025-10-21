@@ -9,6 +9,7 @@ dataframe
 \describe{
   \item{COD_REGION}{chr Region code}
   \item{REGION}{chr Region name}
+  \item{POBLACION_2025}{dbl Projected population of the region in 2025}
   \item{coords_x}{dbl Longitude of the centroid of the region}
   \item{coords_y}{dbl Latitude of the centroid of the region}
   \item{geometry}{MULTIPOLYGON Geometric object}

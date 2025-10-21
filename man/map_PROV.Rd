@@ -13,6 +13,7 @@ dataframe
   \item{REGION}{chr Region name}
   \item{DEPARTAMENTO}{chr Department name}
   \item{PROVINCIA}{chr Province name}
+  \item{POBLACION_2025}{dbl Projected population of the province in 2025}
   \item{coords_x}{dbl Longitude of the centroid of the province}
   \item{coords_y}{dbl Latitude of the centroid of the province}
   \item{geometry}{MULTIPOLYGON Geometric object}
